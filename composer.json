@@ -1,0 +1,35 @@
+{
+	"name" : "tehranborj-District22/tb",
+	"description" : "Plug Threads.io to your PHP application and start collecting events data from your users.",
+	"type" : "library",
+	"homepage" : "http://www.tehran-borj.ir",
+	"keywords" : [
+	  	"Threads.io",
+		"Wrapper",
+		"PHP"
+	],
+	"require" : {
+		"php" : ">=5.4",
+		"guzzlehttp/guzzle": "~5.0",
+        "psr/log": "~1.0"
+	},
+    "require-dev" : {
+	  "phpunit/phpunit": "~4.0",
+	  "satooshi/php-coveralls": "dev-master"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Wabel\\ThreadsIo\\" : "src"
+		}
+	},
+    "autoload-dev" : {
+  	    "psr-4" : {
+          "Wabel\\ThreadsIo\\" : "tests"
+	    }
+    },
+  	"extra": {
+		"branch-alias": {
+		  "dev-master": "1.0.x-dev"
+		}
+	}
+}
