@@ -24,6 +24,6 @@ Each province is further subdivided into counties called shahrestan (Persian: ش
 ```Angular.js angular.module('yourApp', [‘iran’])…```
 
 # About tehranborj
-(Tehran Borj)[https://www.tehran-borj.ir] is one of the reputable online platforms in the real estate transactions sector in the 22nd district of Tehran. This platform provides comprehensive information, including prices, sales conditions, and guidance on selecting the best construction projects in Chitgar, Tehran.
+[Tehran Borj](https://www.tehran-borj.ir) is one of the reputable online platforms in the real estate transactions sector in the 22nd district of Tehran. This platform provides comprehensive information, including prices, sales conditions, and guidance on selecting the best construction projects in Chitgar, Tehran.
 
 By using this platform, you can accurately examine information related to residential and commercial projects in Chitgar, Tehran, and make more informed decisions about your investments. The platform enables you to make better decisions for your investments with precise and comprehensive information about the real estate market in the 22nd district of Tehran.
